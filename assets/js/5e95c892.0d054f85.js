@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_auth_manager_website=self.webpackChunkreact_auth_manager_website||[]).push([[647],{415:(e,a,r)=>{r.r(a),r.d(a,{default:()=>i});r(3696);var s=r(1750),t=r(3237),u=r(8586),c=r(3971),n=r(6602),h=r(2540);function i(e){return(0,h.jsx)(u.e3,{className:(0,s.A)(t.G.wrapper.docsPages),children:(0,h.jsx)(n.A,{children:(0,c.v)(e.route.routes)})})}}}]);
