@@ -13,12 +13,12 @@ const config: Config = {
     },
 
     // Your website production URL
-    url: 'https://neckbeard-69.github.io/react-auth-manager-docs', // <- change this to your real site URL
-    baseUrl: '/',
+    url: 'https://neckbeard-69.github.io',
+    baseUrl: '/react-auth-manager-docs/',
 
     // GitHub pages config (change to your GitHub org and repo if you use it)
     organizationName: 'neckbeard-69', // your GitHub org/user
-    projectName: 'react-auth-manager', // your repo name
+    projectName: 'react-auth-manager-docs', // your repo name
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
