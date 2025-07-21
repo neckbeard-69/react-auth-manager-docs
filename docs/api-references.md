@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: API References
+slug: /api-refrences
 ---
 # API Reference
 

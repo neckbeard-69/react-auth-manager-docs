@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: Getting Started
+slug: /getting-started
 ---
 
 # Getting Started
